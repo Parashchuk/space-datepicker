@@ -1,6 +1,6 @@
 # space_datepicker
 
-Visit: https://parashchuk.github.io/space_datepicker/
+Visit: https://parashchuk.github.io/space-datepicker/
 
 A unique DatePicker created from an svg image animated by the GSAP library.
 
